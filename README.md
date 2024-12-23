@@ -1,1 +1,1 @@
-# Goathacker7-Hand-Written-Digit-Prediction---Classification-Analysis
+# Hand-Written-Digit-Prediction---Classification-Analysis
